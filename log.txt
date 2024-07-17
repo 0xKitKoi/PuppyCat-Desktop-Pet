@@ -1,0 +1,25 @@
+FIX THESE:
+	
+#fixed	- the path to the gifs are hardcoded
+#fixed		assumes the username is loxxie because they are hardcoded
+
+#fixed	- no exe file
+#fixed		hard to launch and spams the terminal
+			Removed un-needed print statements, no more spam
+			made two scripts to run main.py without a window open.
+
+
+#fixed?	- Requires the user to have tkinter and pyautogui installed
+#fixed?		user has to run pip install on dependancies
+#fixed?		the program should do it for them.
+			It would seem that python preinstalls tkinter.
+				pyautogui is not needed.
+#Fix	- Puppycat's frames are corrupt? 
+		color of his face and eyes are transparent
+#Fix	- the whole idle gif wont load
+		Study the code closer to see how tkinter iterates
+		over each frame to display the gif
+
+
+
+		Make it better kitkoi
